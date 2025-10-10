@@ -1,0 +1,353 @@
+{
+  "and_so_we_fall": {
+    "sounds": [{
+      "name": "theos_discs:and_so_we_fall",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "aria_math": {
+    "sounds": [{
+      "name": "theos_discs:aria_math",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "brain_implosion_energy": {
+    "sounds": [{
+      "name": "theos_discs:brain_implosion_energy",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "diggy_diggy_hole": {
+    "sounds": [{
+      "name": "theos_discs:diggy_diggy_hole",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "dramatic_irony": {
+    "sounds": [{
+      "name": "theos_discs:dramatic_irony",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "dreams_in_neon": {
+    "sounds": [{
+      "name": "theos_discs:dreams_in_neon",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "dreams_of_homeland": {
+    "sounds": [{
+      "name": "theos_discs:dreams_of_homeland",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "fading_memories": {
+    "sounds": [{
+      "name": "theos_discs:fading_memories",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "gasoline": {
+    "sounds": [{
+      "name": "theos_discs:gasoline",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "hanachirusato": {
+    "sounds": [{
+      "name": "theos_discs:hanachirusato",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "kamado_tanjirou_no_uta": {
+    "sounds": [{
+      "name": "theos_discs:kamado_tanjirou_no_uta",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "lagtrain": {
+    "sounds": [{
+      "name": "theos_discs:lagtrain",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "le_scamoosh": {
+    "sounds": [{
+      "name": "theos_discs:le_scamoosh",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "of_solitude_past_and_present": {
+    "sounds": [{
+      "name": "theos_discs:of_solitude_past_and_present",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "rainbow_cradlesong": {
+    "sounds": [{
+      "name": "theos_discs:rainbow_cradlesong",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "rex_incognito": {
+    "sounds": [{
+      "name": "theos_discs:rex_incognito",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "shia_labeouf": {
+    "sounds": [{
+      "name": "theos_discs:shia_labeouf",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "shining_in_the_depths": {
+    "sounds": [{
+      "name": "theos_discs:shining_in_the_depths",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "surasthana_fantasia": {
+    "sounds": [{
+      "name": "theos_discs:surasthana_fantasia",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "telephone": {
+    "sounds": [{
+      "name": "theos_discs:telephone",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "two_phut_hon": {
+    "sounds": [{
+      "name": "theos_discs:two_phut_hon",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "winding_through_avydia": {
+    "sounds": [{
+      "name": "theos_discs:winding_through_avydia",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "wriothesley_theme": {
+    "sounds": [{
+      "name": "theos_discs:wriothesley_theme",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "aftershow": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/aftershow",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "afton_family": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/afton_family",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "daddys_little_monsters": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/daddys_little_monsters",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "die_in_a_fire": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/die_in_a_fire",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "dream_your_dream": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/dream_your_dream",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "follow_you": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/follow_you",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "for_you": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/for_you",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "our_little_horror_story": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/our_little_horror_story",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "shadow_bonnie": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/shadow_bonnie",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "mushrooms": {
+    "sounds": [{
+      "name": "theos_discs:kit/mushrooms",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "resurrections": {
+    "sounds": [{
+      "name": "theos_discs:kit/resurrections",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "uwa_temperate": {
+    "sounds": [{
+      "name": "theos_discs:kit/uwa_temperate",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "on_little_cat_feet": {
+    "sounds": [{
+      "name": "theos_discs:oneshot/on_little_cat_feet",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "phosphor": {
+    "sounds": [{
+      "name": "theos_discs:oneshot/phosphor",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "someplace_i_know": {
+    "sounds": [{
+      "name": "theos_discs:oneshot/someplace_i_know",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "the_prophecy": {
+    "sounds": [{
+      "name": "theos_discs:oneshot/the_prophecy",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "bbnos_boom": {
+    "sounds": [{
+      "name": "theos_discs:bbnos/boom",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "bbnos_edamame": {
+    "sounds": [{
+      "name": "theos_discs:bbnos/edamame",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "bbnos_meant_to_be": {
+    "sounds": [{
+      "name": "theos_discs:bbnos/meant_to_be",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "bbnos_one_eight_hundred": {
+    "sounds": [{
+      "name": "theos_discs:bbnos/one_eight_hundred",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "bbnos_two": {
+    "sounds": [{
+      "name": "theos_discs:bbnos/two",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  }
+}

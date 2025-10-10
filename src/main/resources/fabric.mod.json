@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "tmd",
+  "version": "${version}",
+  "name": "Theo's Discs",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/tmd/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "io.theo.tmd.client.TMDDataGenerator"
+    ],
+    "client": [
+      "io.theo.tmd.client.TMDClient"
+    ],
+    "main": [
+      "io.theo.tmd.TMD"
+    ]
+  },
+  "mixins": [
+    "tmd.mixins.json",
+    {
+      "config": "tmd.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
