@@ -15,6 +15,14 @@
     }]
   },
 
+  "bernadette": {
+    "sounds": [{
+      "name": "theos_discs:bernadette",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
   "brain_implosion_energy": {
     "sounds": [{
       "name": "theos_discs:brain_implosion_energy",
@@ -23,25 +31,17 @@
     }]
   },
 
+  "butcher_vanity": {
+    "sounds": [{
+      "name": "theos_discs:butcher_vanity",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
   "diggy_diggy_hole": {
     "sounds": [{
       "name": "theos_discs:diggy_diggy_hole",
-      "stream": true,
-      "attenuation_distance": 16
-    }]
-  },
-
-  "dramatic_irony": {
-    "sounds": [{
-      "name": "theos_discs:dramatic_irony",
-      "stream": true,
-      "attenuation_distance": 16
-    }]
-  },
-
-  "dreams_in_neon": {
-    "sounds": [{
-      "name": "theos_discs:dreams_in_neon",
       "stream": true,
       "attenuation_distance": 16
     }]
@@ -79,6 +79,30 @@
     }]
   },
 
+  "hear_me_out": {
+    "sounds": [{
+      "name": "theos_discs:hear_me_out",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "honestly": {
+    "sounds": [{
+      "name": "theos_discs:honestly",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "joyride": {
+    "sounds": [{
+      "name": "theos_discs:joyride",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
   "kamado_tanjirou_no_uta": {
     "sounds": [{
       "name": "theos_discs:kamado_tanjirou_no_uta",
@@ -95,9 +119,9 @@
     }]
   },
 
-  "le_scamoosh": {
+  "minimum_rage": {
     "sounds": [{
-      "name": "theos_discs:le_scamoosh",
+      "name": "theos_discs:minimum_rage",
       "stream": true,
       "attenuation_distance": 16
     }]
@@ -127,17 +151,17 @@
     }]
   },
 
-  "shia_labeouf": {
+  "shining_in_the_depths": {
     "sounds": [{
-      "name": "theos_discs:shia_labeouf",
+      "name": "theos_discs:shining_in_the_depths",
       "stream": true,
       "attenuation_distance": 16
     }]
   },
 
-  "shining_in_the_depths": {
+  "siren": {
     "sounds": [{
-      "name": "theos_discs:shining_in_the_depths",
+      "name": "theos_discs:siren",
       "stream": true,
       "attenuation_distance": 16
     }]
@@ -159,9 +183,25 @@
     }]
   },
 
+  "tetoris": {
+    "sounds": [{
+      "name": "theos_discs:tetoris",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
   "two_phut_hon": {
     "sounds": [{
       "name": "theos_discs:two_phut_hon",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "war_without_reason": {
+    "sounds": [{
+      "name": "theos_discs:war_without_reason",
       "stream": true,
       "attenuation_distance": 16
     }]
@@ -255,6 +295,14 @@
     }]
   },
 
+  "sweet_dreams": {
+    "sounds": [{
+      "name": "theos_discs:fnaf/sweet_dreams",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
   "mushrooms": {
     "sounds": [{
       "name": "theos_discs:kit/mushrooms",
@@ -266,14 +314,6 @@
   "resurrections": {
     "sounds": [{
       "name": "theos_discs:kit/resurrections",
-      "stream": true,
-      "attenuation_distance": 16
-    }]
-  },
-
-  "uwa_temperate": {
-    "sounds": [{
-      "name": "theos_discs:kit/uwa_temperate",
       "stream": true,
       "attenuation_distance": 16
     }]
@@ -303,9 +343,9 @@
     }]
   },
 
-  "the_prophecy": {
+  "bbnos_antidepressants": {
     "sounds": [{
-      "name": "theos_discs:oneshot/the_prophecy",
+      "name": "theos_discs:bbnos/antidepressants",
       "stream": true,
       "attenuation_distance": 16
     }]
@@ -346,6 +386,45 @@
   "bbnos_two": {
     "sounds": [{
       "name": "theos_discs:bbnos/two",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "graveyard_kitten": {
+    "sounds": [{
+      "name": "theos_discs:sharax/graveyard_kitten",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "heartache": {
+    "sounds": [{
+      "name": "theos_discs:sharax/heartache",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "its_raining_somewhere_else": {
+    "sounds": [{
+      "name": "theos_discs:sharax/its_raining_somewhere_else",
+      "stream": true,
+      "attenuation_distance": 16
+    }]
+  },
+
+  "sound_of_winter": {
+    "sounds": [{
+      "name": "theos_discs:sharax/sound_of_winter",
+      "stream": true,
+      "attenuation_distance": 16}]
+  },
+
+  "spider_dance": {
+    "sounds": [{
+      "name": "theos_discs:sharax/spider_dance",
       "stream": true,
       "attenuation_distance": 16
     }]
