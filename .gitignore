@@ -10,6 +10,7 @@
 .venv/
 run/
 build/
+__pycache__/
 
 # IntelliJ
 out/
