@@ -5,6 +5,12 @@
 *.ipr
 *.iws
 
+# Stuff I straight up just don't want to push
+.gradle/
+.venv/
+run/
+build/
+
 # IntelliJ
 out/
 # mpeltonen/sbt-idea plugin

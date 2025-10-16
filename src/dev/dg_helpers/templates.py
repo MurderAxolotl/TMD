@@ -1,0 +1,6 @@
+itemModel = {
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": ""
+    }
+}

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "tmd",
+  "id": "theos_discs",
   "version": "${version}",
-  "name": "Theo's Discs",
-  "description": "",
-  "authors": [],
+  "name": "Expanded Jukebox",
+  "description": "Custom music discs, Theo edition",
+  "authors": ["MurderAxolotl"],
   "contact": {},
-  "license": "All-Rights-Reserved",
-  "icon": "assets/tmd/icon.png",
+  "license": "No-License",
+  "icon": "/assets/theos_discs/icon.png",
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
